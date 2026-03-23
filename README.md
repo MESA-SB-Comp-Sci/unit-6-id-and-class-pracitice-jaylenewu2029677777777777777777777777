@@ -18,6 +18,9 @@ Your job is to write the syntax correctly.
 
 **Task 1** — Write a class rule called `pink-bg`
 - Change the background color to pink
+.pink-bg{
+    background-color: pink
+}
 
 **Task 2** — Write a class rule called `blue-text`
 - Change the text color to blue
